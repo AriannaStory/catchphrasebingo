@@ -3,6 +3,8 @@
 
 It turns out that I get pretty repetitive when I'm watching sports, so I decided to build out a Bingo game that my friends and family can play while they're listening to me. It's inspired by [this Bingo board for the Carolina Hurricanes](https://bingo.svech.net) by Erin Morelli ([@ErinMorelli](https://github.com/ErinMorelli)).
 
+![enter image description here](https://i.imgur.com/abpa6EB.png)
+
 
 # How to Use
 You'll want to create a `squares.json` in the same folder as the `index.html`, and create "squares" with the following syntax:
